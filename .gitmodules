@@ -5,3 +5,6 @@
 [submodule "gradecast"]
 	path = gradecast
 	url = https://github.com/NeuroShepherd/gradecast
+[submodule "ordinalsimr"]
+	path = ordinalsimr
+	url = https://github.com/NeuroShepherd/ordinalsimr
